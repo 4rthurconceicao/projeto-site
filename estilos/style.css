@@ -16,3 +16,8 @@ main{
 img.lado{
    float: right;
 }
+
+abbr{
+    text-decoration: none;
+    cursor: pointer;
+}
